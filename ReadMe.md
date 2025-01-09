@@ -117,4 +117,4 @@ def fifth_transition(h1: np.ndarray) -> np.ndarray:
 
 **Result animation:**
 
-![Screencast from 2025-01-09 16-05-32.gif](Screencast%20from%202025-01-09%2016-05-32.gif)
+![Screencast from 2025-01-09 16-05-32.gif](contents/Screencast%20from%202025-01-09%2016-05-32.gif)
